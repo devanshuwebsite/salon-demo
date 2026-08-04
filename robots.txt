@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devanshuwebsite.github.io/salon-demo/sitemap.xml
